@@ -1,0 +1,32 @@
+.newsletter {
+  background:  rgb(255, 196, 251);
+
+  padding: 60px;
+  border-radius: 15px;
+}
+
+.newsletter h2 {
+  color: #000000;
+
+  font-family: 'Courier New', Courier, monospace;
+}
+.subscribe input {
+  border: none;
+  color: black;
+  outline: none;
+  padding-left: 15px;
+}
+
+.subscribe {
+  padding: 7px 10px;
+  background: #fff;
+  width: 45%;
+  margin: auto;
+  border-radius: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.subscribe .btn{
+  color: black;
+}

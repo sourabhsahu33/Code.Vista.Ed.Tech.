@@ -1,0 +1,38 @@
+.footer {
+  background: rgba(196, 196, 196, 0.625);
+}
+
+.follows span a {
+  text-decoration: none;
+}
+
+.follows span {
+  margin-right: 15px;
+}
+
+.link__list .link__item {
+  background: transparent;
+}
+
+.link__list a {
+  text-decoration: none;
+  color: #0a2b1e;
+  font-weight: 500;
+}
+
+.follows i{
+  background-color: black;
+  font-size: 30px;
+}
+.ft {
+  background-color: rgb(255, 214, 252);
+  color: black;
+  padding: 10px;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  font-size: 15px;
+  font-family: 'Verdana', sans-serif;
+font-weight: bolder;
+}
